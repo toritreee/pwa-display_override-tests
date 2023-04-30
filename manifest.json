@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "name": "toritreee/display_override-test",
+  "short_name": "display_override",
+  "start_url": ".",
+  "display": "standalone",
+  "display_override": [
+    "window-controls-overlay",
+    "standalone"
+  ],
+  "background_color": "#fff",
+  "description": "window-controls-overlay"
+}
